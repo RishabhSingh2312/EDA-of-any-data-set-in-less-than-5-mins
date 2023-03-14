@@ -1,5 +1,5 @@
 # EDA(Exploratory data analysis) of any data_set in less than 5 minutes:
-Here , in this project you ll see the installation of packages with codes to make an EDA of the given data set
+Here , in this project you ll see the installation of packages with codes to make an EDA of the given data set in python or jupitor notebook
 With the help of pandas_profiling_report module.
 
 
